@@ -1,0 +1,59 @@
+body{
+font-size: 87.5%;
+background-color: black;
+}
+
+.body{
+  margin: 0 auto;
+  width: 70%;
+
+}
+
+.maincontent{
+background-color: white;
+padding-left: 1%;
+padding-right: 1%;
+
+}
+
+.mainheader img{
+  width: 100%;
+  height: auto;
+  margin: 0% 0% 0% 0%;
+}
+
+
+
+.firstcontent{
+  width: 30%;
+  margin:  0% 0% 0% 15%;
+  float: left;
+
+}
+
+.secondcontent{
+
+  width: 30%;
+  margin: 0% 20% 0% 0%;
+  float: right;
+
+}
+.footerdiv{
+  float: left;
+width: 50%;
+margin-top: 1%;
+margin-left: 20%;
+margin-right: 20%;
+
+}
+
+
+.topcontentfirst{
+  overflow: hidden;
+
+}
+
+.topcontentsecond{
+  overflow: hidden;
+
+}
