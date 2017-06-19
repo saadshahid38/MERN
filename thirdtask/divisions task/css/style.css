@@ -1,0 +1,30 @@
+body{
+  background-color: #ecf0f1;
+}
+
+.mypanelbody{
+    height: 92px;
+}
+
+.myfooter{
+  overflow: hidden;
+  background-color: #34495e;
+  color: #fff;
+}
+
+.blue-panel{
+    background-color: #2980b9;
+    height: 250px;
+}
+.purple-panel{
+    background-color: #8e44ad;
+    height: 250px;
+}
+
+.myHeading, .myParagraph{
+  text-align:center;
+}
+
+.panel-footer{
+  border-top:0;
+}
